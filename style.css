@@ -1,0 +1,123 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.w3-display-container.resumeimg {
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.resumeimg {
+    width: 100%;
+    overflow: hidden;
+}
+.w3-display-container.resumeimg img {
+    width: 80%;
+    margin: 5% 0 0 0;
+    background: #575757;
+    border-radius: 50%;
+    padding: 6%;
+}			
+.resumehead {
+    width: 100%;
+    text-align: center;
+    background: #000000a8;
+    color: #fff;
+}
+.resumehead h2 {
+    font-size: 35px;
+    font-weight: bold;
+}
+.hobby {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.w3-container.w3-card.w3-white.w3-padding-bottom{
+    padding-bottom: 5%;
+}
+/*top buttton*/
+#myBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: red;color: white;cursor: pointer;padding: 15px;border-radius: 4px;}
+#myBtn:hover {background-color: #555;}
+#scrollTopBtn {
+	display: block;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+		
+/*=========================================================
+						Responsive 
+===========================================================*/
+/*-------------------------------------------------------
+		@media screen 1184px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 1184px) {
+	
+}
+
+/*-------------------------------------------------------
+		@media screen 1070px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 1070px) {
+	
+}
+
+/*-------------------------------------------------------
+				@media screen 1069px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 1069px) {
+	
+
+}
+
+/*-------------------------------------------------------
+				@media screen 980px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 980px) {
+	
+
+}
+
+/*-------------------------------------------------------
+				@media screen 849px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 849px) {
+
+	
+}
+
+/*-------------------------------------------------------
+				@media screen 782px Start
+---------------------------------------------------------*/
+@media only screen and (max-width: 782px) {
+
+
+
+ }
+
+/*-------------------------------------------------------
+				@media screen 768px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 768px) {
+
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+	
+}
+
+/*-------------------------------------------------------
+				@media screen 650px Start
+---------------------------------------------------------*/
+@media screen and (max-width: 650px) {
+
+}
