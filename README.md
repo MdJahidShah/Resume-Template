@@ -28,7 +28,10 @@ This is a customizable resume template designed to help you create a professiona
 
 <h2>Preview</h2>
 You can preview the template by opening the index.html file in a web browser or by visiting <a href="https://jahidshah.w3spaces.com/" target="_blank">Demo Link</a>.
-
+<ul>
+  <li><a href="https://github.com/MdJahidShah/Resume-Template/blob/main/Resume-Template-Desktop-View.jpg">Desktop View</a></li>
+  <li><a href="https://github.com/MdJahidShah/Resume-Template/blob/main/Resume-Template-Mobile-View.jpg">Mobile View</a></li>
+</ul>
 <h2>Acknowledgments</h2>
 <ul>
   <li>Font Awesome for icons</li>
